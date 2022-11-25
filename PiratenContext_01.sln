@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiratenContext_01", "PiratenContext_01.csproj", "{DF5F8A1F-787F-47DF-B757-9CC2FE7C6336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5F8A1F-787F-47DF-B757-9CC2FE7C6336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5F8A1F-787F-47DF-B757-9CC2FE7C6336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5F8A1F-787F-47DF-B757-9CC2FE7C6336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5F8A1F-787F-47DF-B757-9CC2FE7C6336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE386248-265E-4CC5-A0FB-37B2B6A7607B}
+	EndGlobalSection
+EndGlobal
